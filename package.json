@@ -16,11 +16,11 @@
     ],
     "win": {
       "target": "nsis",
-      "icon": "src/dhdhdfhd.ico"
+      "icon": "src/favicon.ico"
     },
     "nsis": {
-      "installerIcon": "src/dhdhdfhd.ico",
-      "uninstallerIcon": "dhdhdfhd.ico"
+      "installerIcon": "src/favicon.ico",
+      "uninstallerIcon": "favicon.ico"
     }
   },
   "devDependencies": {
