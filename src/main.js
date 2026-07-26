@@ -13,7 +13,7 @@ function createWindow() {
     },
   });
 
-  win.loadURL('https://www.fedpromptly.com');
+  win.loadURL('https://fedpromptly.github.io/forum/');
 }
 
 app.whenReady().then(createWindow);
