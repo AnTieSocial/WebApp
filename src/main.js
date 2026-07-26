@@ -5,7 +5,7 @@ function createWindow() {
   const win = new BrowserWindow({
     width: 1200,
     height: 800,
-    icon: path.join(__dirname, 'streaming_gaming_game_twitch_logo_icon_225403.ico
+    icon: path.join(__dirname, 'dhdhdfhd.ico
 '),
     webPreferences: {
       preload: path.join(__dirname, 'preload.js'),
