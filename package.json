@@ -1,5 +1,5 @@
 {
-  "name": "fedpromptly-desktop",
+  "name": "Pokejumper-desktop",
   "version": "1.0.0",
   "author": "Your Name",
   "description": "Desktop client for Fedpromptly",
@@ -10,7 +10,7 @@
   },
   "build": {
     "appId": "com.yourdomain.app",
-    "productName": "Fedpromptly",
+    "productName": "Pokejumper",
     "files": [
       "src/**/*"
     ],
