@@ -16,14 +16,11 @@
     ],
     "win": {
       "target": "nsis",
-      "icon": "src/streaming_gaming_game_twitch_logo_icon_225403.ico
-"
+      "icon": "src/dhdhdfhd.ico"
     },
     "nsis": {
-      "installerIcon": "src/streaming_gaming_game_twitch_logo_icon_225403.ico
-",
-      "uninstallerIcon": "src/streaming_gaming_game_twitch_logo_icon_225403.ico
-"
+      "installerIcon": "src/dhdhdfhd.ico",
+      "uninstallerIcon": "dhdhdfhd.ico"
     }
   },
   "devDependencies": {
