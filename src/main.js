@@ -13,7 +13,7 @@ function createWindow() {
     },
   });
 
-  win.loadURL('https://fedpromptly.github.io/forum/');
+  win.loadURL('antiesocial.github.io/forum/');
 }
 
 app.whenReady().then(createWindow);
