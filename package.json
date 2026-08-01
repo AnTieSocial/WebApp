@@ -1,7 +1,7 @@
 {
 "name": "Anti-desktop",
 "version": "1.0.0",
-"author": "Your Name",
+"author": "Anti",
 "description": "Desktop client for antiesocial.github.io/forum/",
 "main": "src/main.js",
 "scripts": {
@@ -16,11 +16,11 @@
 ],
 "win": {
 "target": "nsis",
-"icon": "src/favicon.ico"
+"icon": "src/Block.ico"
 },
 "nsis": {
-"installerIcon": "src/favicon.ico",
-"uninstallerIcon": "src/favicon.ico"
+"installerIcon": "src/Block.ico",
+"uninstallerIcon": "src/Block.ico"
 }
 },
 "devDependencies": {
