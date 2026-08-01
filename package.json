@@ -2,7 +2,7 @@
   "name": "serenityherbs-desktop",
   "version": "1.0.0",
   "author": "Your Name",
-  "description": "Desktop client for https://sites.google.com/view/serenityherbssouthfl/home",
+  "description": "Desktop client for https://antiesocial.github.io/forum/",
   "main": "src/main.js",
   "scripts": {
     "start": "electron .",
