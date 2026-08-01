@@ -1,8 +1,8 @@
 {
-"name": "Pokejumper-desktop",
+"name": "Anti-desktop",
 "version": "1.0.0",
 "author": "Your Name",
-"description": "Desktop client for Fedpromptly",
+"description": "Desktop client for antiesocial.github.io/forum/",
 "main": "src/main.js",
 "scripts": {
 "start": "electron .",
@@ -10,7 +10,7 @@
 },
 "build": {
 "appId": "com.yourdomain.app",
-"productName": "Pokejumper",
+"productName": "Anti",
 "files": [
 "src/**/*"
 ],
