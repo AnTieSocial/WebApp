@@ -16,11 +16,11 @@
     ],
     "win": {
       "target": "nsis",
-      "icon": "src/Pic.ico"
+      "icon": "src/block.ico"
     },
     "nsis": {
-      "installerIcon": "src/Pic.ico",
-      "uninstallerIcon": "src/Pic.ico"
+      "installerIcon": "src/block.ico",
+      "uninstallerIcon": "src/block.ico"
     }
   },
   "devDependencies": {
