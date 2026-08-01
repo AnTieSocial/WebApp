@@ -13,7 +13,7 @@ function createWindow() {
     },
   });
 
-  win.loadURL('antiesocial.github.io/forum/');
+  win.loadURL('https://antiesocial.github.io/forum/');
 }
 
 app.whenReady().then(createWindow);
