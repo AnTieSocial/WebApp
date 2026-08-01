@@ -2,7 +2,7 @@
 "name": "Anti-desktop",
 "version": "1.0.0",
 "author": "Anti",
-"description": "Desktop client for antiesocial.github.io/forum/",
+"description": "Desktop client for https://antiesocial.github.io/forum/",
 "main": "src/main.js",
 "scripts": {
 "start": "electron .",
