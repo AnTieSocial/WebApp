@@ -1,7 +1,7 @@
 {
-  "name": "serenityherbs-desktop",
+  "name": "anti-desktop",
   "version": "1.0.0",
-  "author": "Your Name",
+  "author": "anti",
   "description": "Desktop client for https://antiesocial.github.io/forum/",
   "main": "src/main.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "build": {
     "appId": "com.yourdomain.app",
-    "productName": "serenityherbs",
+    "productName": "anti",
     "files": [
       "src/**/*"
     ],
