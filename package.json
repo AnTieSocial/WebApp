@@ -1,31 +1,30 @@
 {
-"name": "Anti-desktop",
-"version": "1.0.0",
-"author": "Anti",
-"description": "Desktop client for https://antiesocial.github.io/forum/",
-"main": "src/main.js",
-"scripts": {
-"start": "electron .",
-"dist": "electron-builder --win --publish never"
-},
-"build": {
-"appId": "com.yourdomain.app",
-"productName": "Anti",
-"files": [
-"src/**/*"
-],
-"win": {
-"target": "nsis",
-"icon": "src/Block.ico"
-},
-"nsis": {
-"installerIcon": "src/Block.ico",
-"uninstallerIcon": "src/Block.ico"
+  "name": "serenityherbs-desktop",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "description": "Desktop client for https://sites.google.com/view/serenityherbssouthfl/home",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --win --publish never"
+  },
+  "build": {
+    "appId": "com.yourdomain.app",
+    "productName": "serenityherbs",
+    "files": [
+      "src/**/*"
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "src/Pic.ico"
+    },
+    "nsis": {
+      "installerIcon": "src/Pic.ico",
+      "uninstallerIcon": "src/Pic.ico"
+    }
+  },
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "electron-builder": "^24.0.0"
+  }
 }
-},
-"devDependencies": {
-"electron": "^28.0.0",
-"electron-builder": "^24.0.0"
-}
-}
-
